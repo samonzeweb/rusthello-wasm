@@ -23,3 +23,7 @@ Simply run `make`, and get the result in `rusthello-web/dist`.
 ### Explore
 
 Each project has its own README with some more informations.
+
+## Licence
+
+Released under the MIT License, see [LICENSE](LICENSE) file for more informations.
